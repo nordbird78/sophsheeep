@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Проект с NFC метками
 
-You can use the [editor on GitHub](https://github.com/nordbird78/sophsheeep/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Основная идея найти метки достаточно гибкие, для того, чтобы to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
